@@ -42,7 +42,7 @@ Classifies 70x70 image patches as real or fake
 ## 🧪 Training Configuration
 | Setting    | Value                          |
 | ---------- | ------------------------------ |
-| Epochs     | 150                            |
+| Epochs     | 30                             |
 | Batch Size | 1                              |
 | Image Size | 256×256                        |
 | Optimizer  | Adam (lr=2e-4, β1=0.5)         |
